@@ -10,5 +10,8 @@
 ### Decorator variante 2:
 ![Image](https://i.imgur.com/xAaqDtt.png)
 
+### State
+![Image](https://i.imgur.com/RIFORu1.png)
+
 
 
